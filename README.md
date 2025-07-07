@@ -29,3 +29,5 @@ Converts the chatbot’s internal response into a human-readable message.
 
 Response Delivery:
 Sends the generated response back to the user through the chosen interface (web app, messaging platform, etc.).
+
+"OUTPUT"      :![Image](https://github.com/user-attachments/assets/07a10a7b-4b9f-43af-8fbe-eb51d91e3ff1)
